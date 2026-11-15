@@ -1,0 +1,25 @@
+body {
+  background-color: #0b1026;
+  color: #e6ecff;
+    font-size: 18px;
+      text-align: center;  
+}
+
+Header {
+border: 2px solid #89a8ff;
+  background-color: #111a3d
+}
+H1{
+Color: white;
+  font-size: 42px
+}
+H2 {
+color: #FFD300
+}
+footer {
+border: 2px solid #89a8ff;
+  background-color: #111a3d
+}
+a {
+color: #3BA3D0
+}
